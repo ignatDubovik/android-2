@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bartlomiej-gora:RPNLibrary:3.2.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bartlomiej-gora/RPNLibrary/3.2.2/e9b9f2b20f8114f9fcbadd29a8a9be7ebf95e7a2/RPNLibrary-3.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bartlomiej-gora/RPNLibrary/3.2.2/518a58365560325ae9a32a7507a841342dce529/RPNLibrary-3.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bartlomiej-gora/RPNLibrary/3.2.2/b08197ed9870d7938a4fbe0e2144117c34bfeb3/RPNLibrary-3.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
