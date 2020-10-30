@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/text"
+        android:title="Текст"
+        app:showAsAction="always|withText"
+        android:orderInCategory="1"
+        />
+    <item android:id="@+id/openFromGallery"
+        android:title="Галерея"
+        app:showAsAction="always"
+        android:orderInCategory="2"/>
+    <item android:id="@+id/takeNewPicture"
+        android:title="Новое фото"
+        app:showAsAction="always"
+        android:orderInCategory="3"/>
+    <item
+        android:id="@+id/clear"
+        app:showAsAction="never"
+        android:title="Очистить" />
+
+
+
+
+
+    <group android:id="@+id/group"
+        android:checkableBehavior="single">
+        <item android:id="@+id/line"
+            android:title="Прямая"
+            android:checked="true"/>
+        <item android:id="@+id/smoothline"
+            android:title="Линия"/>
+        <item android:id="@+id/rectangle"
+            android:title="Прямоугольник"/>
+        <item android:id="@+id/square"
+            android:title="Квадрат"/>
+        <item android:id="@+id/circle"
+            android:title="Круг"/>
+        <item android:id="@+id/triangle"
+            android:title="Треугольник"/>
+        <item android:id="@+id/blur"
+            android:title="Кисть-блюр"/>
+        <item android:id="@+id/eraser"
+            android:title="Ластик"/>
+    </group>
+</menu>
