@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="your_score">Ваш результат</string>
+    <string name="quizapp">QuizApp</string>
+</resources>
